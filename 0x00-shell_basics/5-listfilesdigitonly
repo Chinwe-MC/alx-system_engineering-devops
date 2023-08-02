@@ -1,2 +1,2 @@
 #!/bin/bin
-ls -ln
+ls -lna
